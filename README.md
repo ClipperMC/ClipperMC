@@ -10,7 +10,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/deckfailcat.png' width='25%'>
+<img align='right' src='https://octodex.github.com/images/deckfailcat.png' width='19%'>
 
 
       
